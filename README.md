@@ -1,7 +1,7 @@
 # Sales_Insights_Analysis
 
 
-Atliq Hardware Sales Dashboard [Link](https://1drv.ms/b/c/3a385a8883f3623d/EceZKzC7FVZFn03UKO_PmtIBctnJOJgQgy_oe2dUigY2yQ?e=ywNSeF)
+ ## [Dashboard Link](https://1drv.ms/b/c/3a385a8883f3623d/EceZKzC7FVZFn03UKO_PmtIBctnJOJgQgy_oe2dUigY2yQ?e=ywNSeF)
 
 The Atliq Hardware Sales Trend Dashboard, designed using Power BI, provides a comprehensive overview of sales trends for Atliq hardware goods. This dashboard offers valuable insights to help increase revenue by at least 7% by the next quarter. Key features of the dashboard include:
 
